@@ -1,4 +1,4 @@
-I will add comments to the code.
+I changed a message, renamed a variable, added a function, and made one small extra edit.
 
 ---
 
