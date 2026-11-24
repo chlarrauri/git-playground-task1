@@ -30,5 +30,5 @@ Yes. My deliberate stray edit was the comment change in `lib/config.js` ("locks"
 
 ## Branch, commit and PR
 
-- Committed on the branch `read-repo` and pushed to my fork.
-- PR against the main repository: PR_LINK_PENDING
+- Committed on the branch `read-repo` and pushed to my fork, then merged into my fork's `main`, which PR #508 is opened from.
+- PR against the main repository: https://github.com/mate-academy/git-playground-task1/pull/508
